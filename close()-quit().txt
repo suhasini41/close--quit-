@@ -1,0 +1,6 @@
+close() :
+------------
+	When we use driver.close(), it closes the current browser window.
+quit() :
+----------------
+	When we use driver.quit(), it closes all the browser window opened. 
